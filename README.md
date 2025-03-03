@@ -1,20 +1,17 @@
-# Hi, I'm [Tiberon] 👋  
+# Hi, I'm Tiberon 👋  
 
-**Developer | Problem Solver | Tech Enthusiast**  
+**Developer | Desinger | Student**  
 
 > “There are only two hard things in Computer Science: cache invalidation and naming things.”  
 > – Phil Karlton  
 
-🔹 **Building efficient and scalable solutions**  
+🔹 **Building modulair complex solutions to simple problems**  
 🔹 **Exploring new technologies and optimizing workflows**  
-🔹 **Passionate about clean code and great design**  
-
-🚀 **Current Focus:** [Your Project or Tech Stack]  
-📫 **Get in Touch:** [Your Email or Social Links]  
+🔹 **Passionate about plug and play code and great design**  
 
 ---  
 
-*Code. Learn. Improve.*  
+*Code. Compile. Fix bugs. Making others*  
 
 
 <!--
