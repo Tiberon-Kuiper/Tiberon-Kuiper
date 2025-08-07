@@ -11,7 +11,7 @@
 
 🚀 **Code. Compile. Fix bugs. Make an impact.**  
 
-
+![Snake animation](https://github.com/Tiberon-Kuiper/Tiberon-Kuiper/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Tiberon-Kuiper/Tiberon-Kuiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
