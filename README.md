@@ -9,7 +9,7 @@
 🔹 **Exploring new technologies and optimizing workflows**  
 🔹 **Passionate about plug-and-play code and great design**  
 
-🚀 **Code. Compile. Fix bugs. Make an impact.**  
+🚀 **Code. Compile. Fix bugs. Compile. Fix bugs. Compile. Fix bugs.**  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiberon-Kuiper/Tiberon-Kuiper/output/github-contribution-grid-snake-dark.svg">
